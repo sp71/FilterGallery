@@ -4,7 +4,7 @@ Features: <br />
 
 -User can create and delete albums to organize photos. <br />
 -Photos can be accessed from the Photos application on iPhone/iPad. <br />
--Created for all iPhones and iPads through AutoLayout. <br />
+-Created for all iPhones and iPads through Auto Layout. <br />
 -Filtered images are loaded asynchronously. <br />
 -Core Data used to persist albums and photos <br />
 
