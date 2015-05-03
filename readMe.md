@@ -6,6 +6,7 @@ Features: <br />
 -Photos can be accessed from the Photos application on iPhone/iPad. <br />
 -Created for all iPhones and iPads through AutoLayout. <br />
 -Filtered images are loaded asynchronously. <br />
+-Core Data used to persist albums and photos <br />
 
 Note: Physical device can also take photos when camera button is pressed and apply filters upon them. This feature cannot be shown on the simulator.  <br />
 
